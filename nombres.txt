@@ -1,4 +1,5 @@
 Nombres de la clase de QA
 - Napoleon
 - Cindy
+- Alejandra
 - Pedro
