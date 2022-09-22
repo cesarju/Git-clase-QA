@@ -3,3 +3,5 @@ Nombres de la clase de QA
 - Cindy esta en la clase 
 - Alejandra
 - Pedro
+- Cindy
+- Cambios 
