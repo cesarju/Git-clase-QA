@@ -1,5 +1,4 @@
 Nombres de la clase de QA
 - Napoleon y Aylin
 - Cindy
-- Alejandra
-- Pedro
+- Cambios 
